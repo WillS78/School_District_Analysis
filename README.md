@@ -13,6 +13,12 @@ The purpose of this analysis is to quickly filter through a large data set from 
 
 The biggest thing this does for the district is it allows their data to be accurate and have integrity as it removes dirty data. It has very minimal impact to the overall numbers. Example the average math score dropped by 0.1, the average reading score remained flat, Passing math scores dropped 0.2%, the Passing reading percentage dropped 0.1% and the overall passing percentage dropped 0.3%.
 
+Old Data
+![Old School Data](https://user-images.githubusercontent.com/101777677/163691927-02246da9-e847-4679-932b-82e9366a7778.JPG)
+
+New Data
+![New School Data](https://user-images.githubusercontent.com/101777677/163691938-e39abd5d-a7b2-454d-849c-ff8a11de4357.JPG)
+
 2. How is the school summary affected?
 
 3. How does replacing the ninth graders math/reading scores affect Thomas High School performance relative to the other schools?
