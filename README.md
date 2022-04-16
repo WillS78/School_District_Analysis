@@ -1,6 +1,8 @@
 # School_District_Analysis
 # Overview of the School District Analysis
 
+Maria and the school board wanted to figure out the next years budget. They are wanting to see how the different schools compared to each other in regards to their current student population, current funding per-student and how their students testing scores rank them focusing specifically on their reading and math results. They also suspect that one of the high schools have dirty data and need to pull that out so it doesn’t throw the data set out of line.
+
 ## Analysis Purpose
 
 # Results
