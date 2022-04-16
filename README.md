@@ -5,6 +5,8 @@ Maria and the school board wanted to figure out the next years budget. They are 
 
 ## Analysis Purpose
 
+The purpose of this analysis is to quickly filter through a large data set from multiple files. They are needing to be able to see how each school stacked up to each other based on the student population, math test scores and reading test scores. They will use these data points to ensure each school gets the appropriate funding to support their specific student population. They will also be able to see which are their highest performing schools and who are the lowest performing schools. This will allow them to do two things. One learn what the highest performing schools are doing that they can take ot the other schools and help improve their performance. Two dig into the lowest performing schools to determine if under funding or poor leadership/engagement is driving the poor performance.
+
 # Results
 
 1. How is the district summary affected?
