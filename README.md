@@ -17,7 +17,7 @@
 
   - Scores by school
 
-  - Scors by school size
+  - Scores by school size
 
   - Scores by school type
 
