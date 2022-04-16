@@ -45,8 +45,14 @@ Their reading scores went from 83.90 to 83.89 or a -0.01 change.
 
   - Scores by school
 
+![Scores by School](https://user-images.githubusercontent.com/101777677/163692467-d6ebeb5b-8097-49e9-852b-d3c3803c7cfb.JPG)
+
   - Scores by school size
 
+![Scores by School Size](https://user-images.githubusercontent.com/101777677/163692470-ead0af3d-78c9-41ab-a330-681e04b2027a.JPG)
+
   - Scores by school type
+
+![Scores by School Type](https://user-images.githubusercontent.com/101777677/163692476-50dca3ad-c1a1-4897-b285-f98ad3d91ab1.JPG)
 
 # Summary
