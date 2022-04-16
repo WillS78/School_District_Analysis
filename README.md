@@ -33,6 +33,14 @@ Replacing the 9th grade data within Thomas High School had very little impact on
 
   - Math and Reading scores by grade
 
+**Math Grades**
+
+![Math Scores By Grade](https://user-images.githubusercontent.com/101777677/163692354-5338f3c9-8d92-4f3e-89ac-ddc5e7160eae.JPG)
+
+**Reading Grades**
+
+![Reading Scores By Grade](https://user-images.githubusercontent.com/101777677/163692366-1b76766d-2d39-4bc8-ae56-3de4ee8f9101.JPG)
+
   - Scores by school
 
   - Scores by school size
