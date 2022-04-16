@@ -21,6 +21,8 @@ New Data
 
 2. How is the school summary affected?
 
+Similarly to the district with the exception for Thomas High School. This change doesn’t impact the other schools individual results but does change Thomas High School a little. Their math scores went from 83.35 down to 83.34 or a -0.01 change. Their reading scores went from 83.90 to 83.89 or a -0.01 change. What it does change is it allows their data to be accurate and have integrity.
+
 3. How does replacing the ninth graders math/reading scores affect Thomas High School performance relative to the other schools?
 
 Replacing the 9th grade data within Thomas High School had very little impact on the numbers for the overall district. With Thomas High School 9th grade population being a small percentage to the total student population it wasn’t enough to change the overall data by more than a fraction of a percentage. 
