@@ -9,25 +9,27 @@ The purpose of this analysis is to quickly filter through a large data set from 
 
 # Results
 
-1. How is the district summary affected?
+**1. How is the district summary affected?**
 
 The biggest thing this does for the district is it allows their data to be accurate and have integrity as it removes dirty data. It has very minimal impact to the overall numbers. Example the average math score dropped by 0.1, the average reading score remained flat, Passing math scores dropped 0.2%, the Passing reading percentage dropped 0.1% and the overall passing percentage dropped 0.3%.
 
-Old Data
+**Old Data**
+
 ![Old School Data](https://user-images.githubusercontent.com/101777677/163691927-02246da9-e847-4679-932b-82e9366a7778.JPG)
 
-New Data
+**New Data**
+
 ![New School Data](https://user-images.githubusercontent.com/101777677/163691938-e39abd5d-a7b2-454d-849c-ff8a11de4357.JPG)
 
-2. How is the school summary affected?
+**2. How is the school summary affected?**
 
 Similarly to the district with the exception for Thomas High School. This change doesn’t impact the other schools individual results but does change Thomas High School a little. Their math scores went from 83.35 down to 83.34 or a -0.01 change. Their reading scores went from 83.90 to 83.89 or a -0.01 change. What it does change is it allows their data to be accurate and have integrity.
 
-3. How does replacing the ninth graders math/reading scores affect Thomas High School performance relative to the other schools?
+**3. How does replacing the ninth graders math/reading scores affect Thomas High School performance relative to the other schools?**
 
 Replacing the 9th grade data within Thomas High School had very little impact on the numbers for the overall district. With Thomas High School 9th grade population being a small percentage to the total student population it wasn’t enough to change the overall data by more than a fraction of a percentage. 
 
-4. How does replacing the ninth grade scores affect the following?
+**4. How does replacing the ninth grade scores affect the following?**
 
   - Math and Reading scores by grade
 
