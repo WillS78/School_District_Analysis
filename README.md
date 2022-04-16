@@ -35,10 +35,12 @@ Replacing the 9th grade data within Thomas High School had very little impact on
 
 **Math Grades**
 Their math scores went from 83.35 down to 83.34 or a -0.01 change. 
+
 ![Math Scores By Grade](https://user-images.githubusercontent.com/101777677/163692354-5338f3c9-8d92-4f3e-89ac-ddc5e7160eae.JPG)
 
 **Reading Grades**
 Their reading scores went from 83.90 to 83.89 or a -0.01 change.
+
 ![Reading Scores By Grade](https://user-images.githubusercontent.com/101777677/163692366-1b76766d-2d39-4bc8-ae56-3de4ee8f9101.JPG)
 
   - Scores by school
