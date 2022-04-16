@@ -15,6 +15,8 @@ The purpose of this analysis is to quickly filter through a large data set from 
 
 3. How does replacing the ninth graders math/reading scores affect Thomas High School performance relative to the other schools?
 
+Replacing the 9th grade data within Thomas High School had very little impact on the numbers for the overall district. With Thomas High School 9th grade population being a small percentage to the total student population it wasn’t enough to change the overall data by more than a fraction of a percentage. 
+
 4. How does replacing the ninth grade scores affect the following?
 
   - Math and Reading scores by grade
