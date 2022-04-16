@@ -56,3 +56,5 @@ Their reading scores went from 83.90 to 83.89 or a -0.01 change.
 ![Scores by School Type](https://user-images.githubusercontent.com/101777677/163692476-50dca3ad-c1a1-4897-b285-f98ad3d91ab1.JPG)
 
 # Summary
+
+In summary the biggest thing Thomas Highs Schools academic dishonesty affected was the Thomas High School leadership teams credit and possibly a few of them lost their jobs for falsification of public documents. Once the data was corrected thankfully it didn’t have a big impact on the district or fellow schools. When you look at the data you can see that the medium and smaller schools have higher passing scores. This could be in relation to the number of students per teacher. The teachers at the smaller schools would have less kids and have the ability to spend more time with those who need extra help. You also notice there are no district schools that fall into the medium or small range. So you could determine that there needs to be more funding at the larger schools to add resources and improve their students testing scores.
